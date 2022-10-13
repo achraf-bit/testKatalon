@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Forgotten your password_submit pointer</name>
+   <tag></tag>
+   <elementGuidId>73ab3ad2-1ea3-4392-93f0-5008a602cc69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.submit.pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Sign in']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>28e03197-b181-4687-a4c9-3e931b814c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit pointer</value>
+      <webElementGuid>05017a4d-740f-4970-8759-c557884574fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>7f0246e5-b833-4002-b7d1-18d73f180e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>9807e590-a439-44cc-a597-bed9507deb62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>b3c1a861-05b1-4e7e-ae1b-0f07da3dd9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kc-form-login&quot;)/input[@class=&quot;submit pointer&quot;]</value>
+      <webElementGuid>36dfe5d4-74f3-4bf0-8b19-64df441af9b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Sign in']</value>
+      <webElementGuid>ca36182e-cf22-4fd1-958a-7f871b792a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='kc-form-login']/input[3]</value>
+      <webElementGuid>ccd10386-76fb-4360-be3f-7c13646eee37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[3]</value>
+      <webElementGuid>5899bd46-2a0f-4abc-aec8-a73d62c1683a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>5d0d2abc-d497-4f4d-88a5-1c26c9b1cd4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
